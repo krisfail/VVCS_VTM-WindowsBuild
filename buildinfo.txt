@@ -1,0 +1,3 @@
+Windows SDK version 10.0.19041.0
+MSVC 19.27.29112.0
+cmake version 3.18.4
